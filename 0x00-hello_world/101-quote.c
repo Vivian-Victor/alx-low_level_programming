@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main . A c programm that prints exactly a given word followed by a new line, to tthe standard error
+ * main - A c programm that prints a new line to the standard error
  *  Return 1 (success)
  */
 int main(void)
