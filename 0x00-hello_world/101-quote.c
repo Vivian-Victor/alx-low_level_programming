@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - unix entry
- * Return 1
+ * main -A unix entry
+ * Return: 1
  */
 int main(void)
 {
