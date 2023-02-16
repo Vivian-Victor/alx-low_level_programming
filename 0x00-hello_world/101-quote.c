@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A c programm that prints a word followed by a new line to the standard error
- *  Return 1 (success)
+ * main - unix entry
+ * Return 1
  */
 int main(void)
 {
