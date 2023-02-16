@@ -1,11 +1,10 @@
-#include <stdio.h>
+lude <stdio.h>
 /**
- * main - main function
- *
- * Return: 0 on Success
- */
+ *  * main - main block
+ *   * Return: o
+ *    */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art, \n")
-	return (0);
+	        printf("\"with proper grammar, but the outcome is a piece of art,");
+	       	return (0);
 }
