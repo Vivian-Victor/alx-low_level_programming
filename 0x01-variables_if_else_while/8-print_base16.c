@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints all the numbers of base 16 in lowercase
+ * main - A program that prints all the numbers of base in lowercase
  *
  * Return: 0
  */
@@ -14,8 +14,8 @@ int main(void)
 	d = 0;
 	while
 		(d < 10) {
-			putchase(d + '0');
-			d++
+			putchar(d + '0');
+			d++;
 		}
 	while
 		(c <= 'f') {
