@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * Main - main block
+ * main - main block
  * Description: A program that prints all possible different combinations
  * Return: 0
  */
