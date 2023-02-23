@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * print_triangles - A function that print triangles
@@ -5,7 +6,7 @@
  * Return: void
  */
 
-void print_triangle(int size);
+void print_triangle(int size)
 {
 	if (size <= 0)
 	{
